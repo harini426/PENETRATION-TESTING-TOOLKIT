@@ -25,6 +25,8 @@ This toolkit is a modular Python-based security tool designed for basic penetrat
 * **Brute Forcer:** Iterates through a predefined list of passwords against a specific username to simulate a credential-guessing attack.
 * **Banner Grabber:** Establishes a connection to a port and reads the initial data packet sent by the server to determine the service name and version.
 
+##  OUTPUT
+
 ##  Usage
 To run the toolkit, open your terminal in the project folder and use the following command:
 ```bash
