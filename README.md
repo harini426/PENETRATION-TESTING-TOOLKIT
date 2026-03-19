@@ -30,6 +30,8 @@ To run the toolkit, open your terminal in the project folder and use the followi
 ```bash
 python main.py
 
+##OUTPUT
+
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/414f0db9-f98f-4eda-829d-8779e080355f" />
 
 
