@@ -26,7 +26,13 @@ This toolkit is a modular Python-based security tool designed for basic penetrat
 * **Banner Grabber:** Establishes a connection to a port and reads the initial data packet sent by the server to determine the service name and version.
 
 ##  OUTPUT
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/414f0db9-f98f-4eda-829d-8779e080355f" />
 
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e55b53a7-3eb4-43b0-9eed-86370246b3f4" />
+
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3f3a7343-061d-466b-b542-988126a45750" />
 ##  Usage
 To run the toolkit, open your terminal in the project folder and use the following command:
 ```bash
