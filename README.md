@@ -27,10 +27,9 @@ This toolkit is a modular Python-based security tool designed for basic penetrat
 
 ##  Usage
 To run the toolkit, open your terminal in the project folder and use the following command:
-```bash
-python main.py
+```bash python main.py
 
-##OUTPUT
+ ## OUTPUT
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/414f0db9-f98f-4eda-829d-8779e080355f" />
 
