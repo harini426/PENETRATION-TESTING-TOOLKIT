@@ -1,5 +1,12 @@
 # Penetration Testing Toolkit
 
+**COMPANY**: CODTECH IT SOLUTIONS
+**NAME**: S. HARINI
+**INTERN ID**: CTIS6595
+**DOMAIN**: CYBER SECURITY & ETHICAL HACKING
+**DURATION**: 4 WEEKS
+**MENTOR**: NEELA SANTHOSH
+
 ##  Description
 This toolkit is a modular Python-based security tool designed for basic penetration testing tasks. It helps in identifying open ports, testing credential strength, and gathering service information from targets.
 
